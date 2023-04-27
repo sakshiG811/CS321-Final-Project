@@ -19,3 +19,7 @@ While the project has been completed, there is always room for improvement. In t
 
 Acknowledgments
 Thanks to Professor Christopher Diggins for providing the base code with guidance and support throughout the project.
+
+Picture:
+<img src="C:\Users\saksh\OneDrive\Desktop\CS321\SimplePainterApplication\Tests\Shapes-Test.png">
+<img src="C:\Users\saksh\OneDrive\Desktop\CS321\SimplePainterApplication\Tests\FunButton-Test.png">
