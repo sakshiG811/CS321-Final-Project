@@ -14,12 +14,18 @@ Save and recover work in progress
 Selection capability to change properties or delete visual elements
 Undo/Redo functionality
 
+Known Bugs:
+The Open feature in File Menu does not open svg files. 
+
 Future Plans:
-While the project has been completed, there is always room for improvement. In the future, third-party libraries can be incorporated, and a strong data structure can be created to manage the SVG files, helping to overcome the difficulties of incorporating additional capabilities.
+While the project has been completed, there is always room for improvement. There will be ongoin improvement in the known bug. In the future, third-party libraries can be incorporated, and a strong data structure can be created to manage the SVG files, helping to overcome the difficulties of incorporating additional capabilities.
 
 Acknowledgments
 Thanks to Professor Christopher Diggins for providing the base code with guidance and support throughout the project.
 
-Picture:
-<img src="C:\Users\saksh\OneDrive\Desktop\CS321\SimplePainterApplication\Tests\Shapes-Test.png">
-<img src="C:\Users\saksh\OneDrive\Desktop\CS321\SimplePainterApplication\Tests\FunButton-Test.png">
+Pictures:
+<img width="960" alt="Shapes-Test" src="https://user-images.githubusercontent.com/98612467/234743126-f4e8247c-c3c7-487f-9e32-0d55cab3dde8.png">
+<img width="960" alt="FunButton-Test" src="https://user-images.githubusercontent.com/98612467/234743142-d050013c-4bab-450d-815b-5ffa1d291ed7.png">
+<img width="960" alt="About-Test" src="https://user-images.githubusercontent.com/98612467/234743174-b620cdc2-13c2-4cc0-9819-a4abc920296d.png">
+
+
